@@ -2,7 +2,8 @@ source 'https://rubygems.org'
 ruby '1.9.3'
 #ruby-gemset=railstutorial_rails_4_0
 
-gem 'rails', '4.0.8'
+gem 'rails',  '4.0.8'
+gem 'bcrypt', '3.1.7'
 gem 'bootstrap-sass', '3.2.0.0'
 
 group :development, :test do
